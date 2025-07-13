@@ -48,7 +48,7 @@ Ini adalah proyek aplikasi web kasir sederhana berbasis **PHP Native** dan **MyS
 ![Tabel Produk](screenshots/struktur_tabel_produk.png)
 
 
-## 🚀 Cara Menjalankan website
+## 🌐 Live Demo
 
-Buka langsung melalui link berikut:  
-👉 (http://kadauniangabak.great-site.net)
+Kamu bisa coba sistemnya langsung di sini:  
+🔗 [kadaiuniangabak.great-site.net](http://kadaiuniangabak.great-site.net)
