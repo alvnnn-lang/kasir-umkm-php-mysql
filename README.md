@@ -1,54 +1,87 @@
-# 💻 Sistem Kasir Web – Project Sistem Basis Data (Kelompok 5)
+# 💻 Web-based POS System – Database Systems Project (Group 5)
 
-Ini adalah proyek aplikasi web kasir sederhana berbasis **PHP Native** dan **MySQL**, dikembangkan untuk memenuhi tugas mata kuliah *Sistem Basis Data*. Aplikasi ini dirancang untuk membantu pengelolaan transaksi penjualan makanan di UMKM secara efisien.
-
-
-## Fitur Utama
-
-- Login admin
-- Manajemen kategori menu (makanan ringan, makanan utama, minuman kemasan, minuman buatan)
-- Tambah, edit, dan hapus menu
-- Update stok otomatis saat transaksi
-- Laporan penjualan harian
-- Filter tanggal, kategori, dan metode pembayaran
-- Export laporan ke Microsoft Word
-- Desain UI modern & responsif
+This is a simple web-based point-of-sale (POS) application built using **PHP Native** and **MySQL**, developed as part of a course project for *Database Systems*.  
+It is designed to assist small food businesses (UMKM) in managing sales transactions efficiently and systematically.
 
 
-## Teknologi yang Digunakan
+## Key Features
+
+- Admin login authentication
+- Menu category management (light meals, main courses, bottled drinks, custom-made drinks)
+- Add, edit, and delete menu items
+- Automatic stock reduction during transactions
+- Daily sales reporting
+- Filters by date, category, and payment method
+- Export reports to Microsoft Word
+- 🖥Modern and responsive UI design
+
+
+## Technologies Used
 
 - PHP Native
-- 🗄MySQL
-- HTML, CSS, JavaScript (minimal)
-- ⚙XAMPP (Apache + MySQL)
-- Font Awesome
+- MySQL
+- HTML, CSS, minimal JavaScript
+- XAMPP (Apache & MySQL)
 
 
-## Cuplikan Tampilan Aplikasi
+
+## Website Screenshots
 
 ### 🔹 ER Diagram
 ![ER Diagram](screenshots/erd.png)
 
-### 🔹 Halaman Login
+### 🔹 Login Page
 ![Login Page](screenshots/halaman_login.png)
 
-### 🔹 Halaman Penjualan
-![Penjualan](screenshots/halaman_penjualan.png)
+### 🔹 Sales Page
+![Sales Page](screenshots/halaman_penjualan.png)
 
-### 🔹 Laporan Penjualan
-![Laporan](screenshots/laporan.png)
+### 🔹 Sales Report Page
+![Report](screenshots/laporan.png)
 
-### 🔹 Struktur Tabel - Kategori
-![Tabel Kategori](screenshots/struktur_tabel_kategori.png)
+### 🔹 Table Structure – Categories
+![Table Kategori](screenshots/struktur_tabel_kategori.png)
 
-### 🔹 Struktur Tabel - Penjualan
-![Tabel Penjualan](screenshots/struktur_tabel_penjualan.png)
+### 🔹 Table Structure – Sales
+![Table Penjualan](screenshots/struktur_tabel_penjualan.png)
 
-### 🔹 Struktur Tabel - Produk
-![Tabel Produk](screenshots/struktur_tabel_produk.png)
+### 🔹 Table Structure – Products
+![Table Produk](screenshots/struktur_tabel_produk.png)
 
+---
 
 ## 🌐 Live Demo
 
-Kamu bisa coba sistemnya langsung di sini:  
+You can try the system live here:  
 🔗 [kadaiuniangabak.great-site.net](http://kadaiuniangabak.great-site.net)
+
+---
+
+## 👨‍💻 My Contributions
+
+This project was completed as a group assignment (Group 5).  
+I contributed as:
+- Lead developer (back-end & front-end integration)
+- System logic & database designer
+- Writer of technical documentation and report
+
+---
+
+## 📂 Project Goals
+
+- Practice CRUD implementation using PHP & MySQL
+- Build a real-world POS system for small businesses
+- Learn full-stack integration from UI to database to reporting
+
+---
+
+## 📬 Contact
+
+**Alvin Wahyudi**  
+[📧 Email](mailto:alvinwahyudi2005@gmail.com)  
+[🔗 LinkedIn](www.linkedin.com/in/alvinwahyudi)
+
+---
+
+> 🚀 Thank you for checking out this project!  
+> I hope it can be a useful reference for others learning full-stack web development.
