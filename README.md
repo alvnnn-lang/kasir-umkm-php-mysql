@@ -1,43 +1,55 @@
 # 💻 Sistem Kasir Web – Project Sistem Basis Data (Kelompok 5)
 
-Ini adalah proyek aplikasi web kasir sederhana berbasis PHP & MySQL, dibuat dalam rangka tugas mata kuliah Sistem Basis Data. Aplikasi ini dirancang untuk membantu pengelolaan penjualan makanan di UMKM.
+Ini adalah proyek aplikasi web kasir sederhana berbasis **PHP Native** dan **MySQL**, dikembangkan untuk memenuhi tugas mata kuliah *Sistem Basis Data*. Aplikasi ini dirancang untuk membantu pengelolaan transaksi penjualan makanan di UMKM secara efisien.
 
----
 
-## ✨ Fitur Utama
+## Fitur Utama
 
--Login Admin
-- Kategori menu: makanan ringan dan makanan utama serta minuman kemasan dan minuman buatan
+- Login admin
+- Manajemen kategori menu (makanan ringan, makanan utama, minuman kemasan, minuman buatan)
 - Tambah, edit, dan hapus menu
-- Update stok otomatis saat transaksi penjualan
-- Laporan penjualan harian dengan filter tanggal, kategori, dan metode
+- Update stok otomatis saat transaksi
+- Laporan penjualan harian
+- Filter tanggal, kategori, dan metode pembayaran
 - Export laporan ke Microsoft Word
-- Desain UI modern 
+- Desain UI modern & responsif
 
----
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - PHP Native
-- MySQL
+- 🗄MySQL
+- HTML, CSS, JavaScript (minimal)
+- ⚙XAMPP (Apache + MySQL)
 - Font Awesome
-- XAMPP (Apache + MySQL)
-- HTML, CSS, sedikit JavaScript
 
----
 
-## 📸 Screenshot
+## Cuplikan Tampilan Aplikasi
+
+### 🔹 ER Diagram
+![ER Diagram](screenshots/erd.png)
+
+### 🔹 Halaman Login
+![Login Page](screenshots/halaman_login.png)
 
 ### 🔹 Halaman Penjualan
-![Halaman Penjualan](screenshots/penjualan.png)
+![Penjualan](screenshots/halaman_penjualan.png)
 
 ### 🔹 Laporan Penjualan
-![Laporan Penjualan](screenshots/laporan.png)
+![Laporan](screenshots/laporan.png)
 
-*(Kamu bisa buat folder `screenshots` di repo, lalu upload screenshot-nya ke sana)*
+### 🔹 Struktur Tabel - Kategori
+![Tabel Kategori](screenshots/struktur_tabel_kategori.png)
 
----
+### 🔹 Struktur Tabel - Penjualan
+![Tabel Penjualan](screenshots/struktur_tabel_penjualan.png)
 
-## 🚀 Cara Menjalankan
+### 🔹 Struktur Tabel - Produk
+![Tabel Produk](screenshots/struktur_tabel_produk.png)
 
-1. Clone repo ini:
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. **Clone repo ini**:
+   ```bash
+   git clone https://github.com/alvnnn-lang/webkadaiuniangabak-php-sql.git
