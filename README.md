@@ -55,9 +55,8 @@ It is designed to assist small food businesses (UMKM) in managing sales transact
 You can try the system live here:  
 🔗 [kadaiuniangabak.great-site.net](http://kadaiuniangabak.great-site.net)
 
----
 
-## 👨‍💻 My Contributions
+## My Contributions
 
 This project was completed as a group assignment (Group 5).  
 I contributed as:
@@ -65,23 +64,29 @@ I contributed as:
 - System logic & database designer
 - Writer of technical documentation and report
 
----
 
-## 📂 Project Goals
-
+## Project Goals
 - Practice CRUD implementation using PHP & MySQL
 - Build a real-world POS system for small businesses
 - Learn full-stack integration from UI to database to reporting
 
----
 
-## 📬 Contact
+## Contact
 
 **Alvin Wahyudi**  
 [📧 Email](mailto:alvinwahyudi2005@gmail.com)  
 [🔗 LinkedIn](www.linkedin.com/in/alvinwahyudi)
 
----
+
+## 🗂 Database File
+You can download the full SQL structure and sample data here:  
+📄 [`database.sql`](./database.sql)
+
+To import:
+1. Open phpMyAdmin
+2. Create a new database (e.g., `kasir_umkm`)
+3. Click "Import" tab → Select `database.sql` → Click "Go"
+
 
 > 🚀 Thank you for checking out this project!  
 > I hope it can be a useful reference for others learning full-stack web development.
