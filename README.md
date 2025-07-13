@@ -48,8 +48,7 @@ Ini adalah proyek aplikasi web kasir sederhana berbasis **PHP Native** dan **MyS
 ![Tabel Produk](screenshots/struktur_tabel_produk.png)
 
 
-## 🚀 Cara Menjalankan Aplikasi
+## 🚀 Cara Menjalankan website
 
-1. **Clone repo ini**:
-   ```bash
-   git clone https://github.com/alvnnn-lang/webkadaiuniangabak-php-sql.git
+Buka langsung melalui link berikut:  
+👉 (http://kadauniangabak.great-site.net)
